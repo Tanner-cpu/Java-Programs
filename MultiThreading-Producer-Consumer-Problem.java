@@ -1,9 +1,4 @@
-/*
-Name: Tanner Boswell
-Class: 490-01
-Assignment: Program 1
-Date: 03-09-2022
- */
+
 package program1;
 
 import java.util.LinkedList;
